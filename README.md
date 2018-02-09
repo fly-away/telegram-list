@@ -713,6 +713,7 @@
 * [Саратов (публичный чат)](https://t.me/saratov_public) — Публичный чат города Саратов
 * [Киночат](https://t.me/chatanonhownow) — Киночат
 * [Podlodka - Mobile Podcast](https://t.me/podlodka) — Чат подкаста про мобильную разработку Podlodka
+* [Fashion_chat](https://t.me/fashion_chat) - Чат о мужском стиле. Мода, smart casual, дресскод, авангард, heritage, скидки и акции.
 
 [(Назад к меню)](#Меню)
 
